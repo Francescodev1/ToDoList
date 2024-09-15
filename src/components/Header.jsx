@@ -39,7 +39,7 @@ export default function SimpleSnackbar() {
     <header>
       <h1>TO DO LIST</h1>
       <Button color="inherit" onClick={handleClick}>
-        Instruzioni
+        Istruzioni
       </Button>
       <Snackbar
         open={open}
